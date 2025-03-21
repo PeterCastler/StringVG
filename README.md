@@ -1,5 +1,4 @@
 # StringVG
-### Dead Simple SVG Attribute Modifier
 
 A simple GUI tool built with PyQt5 that allows batch modification of SVG files by adding or removing attributes from path elements.
 
@@ -15,8 +14,8 @@ A simple GUI tool built with PyQt5 that allows batch modification of SVG files b
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/PeterCastler/StringVG
-cd stringvg
+git clone https://github.com/PeterCastler/StringVG.git
+cd StringVG
 ```
 
 2. Create and activate a virtual environment:
@@ -41,7 +40,7 @@ source venv/bin/activate  # On Unix or MacOS
 
 2. Run the script:
 ```bash
-python svg_modifier_gui.py
+python StringVG.py
 ```
 
 3. In the GUI:
@@ -58,4 +57,6 @@ python svg_modifier_gui.py
 
 ## License
 
-[Your chosen license]
+MIT License
+
+Copyright (c) 2024 Peter Castler
