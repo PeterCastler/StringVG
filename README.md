@@ -4,6 +4,8 @@ A simple GUI tool built with PyQt5 that allows batch modification of SVG files b
 
 ## Features
 
+![image](https://github.com/user-attachments/assets/74c3246b-0e84-49e6-9db3-0b48598855a7)
+
 - Add attributes to all `<path>` elements in SVG files
 - Remove specific attributes from all `<path>` elements
 - Process multiple SVG files in the current directory
