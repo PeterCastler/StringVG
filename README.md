@@ -16,7 +16,7 @@ A simple GUI tool built with PyQt5 that allows batch modification of SVG files b
 1. Clone the repository:
 ```bash
 git clone https://github.com/PeterCastler/StringVG
-cd svg-attribute-modifier
+cd stringvg
 ```
 
 2. Create and activate a virtual environment:
